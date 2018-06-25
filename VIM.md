@@ -4,6 +4,7 @@ This is a cheat sheet for intermediate VIM users who are on a quest for a comple
 
 ## Moving
 It's a WEB!!
+
 Aspect| Keys| Description|
 ---|---|---
 |character| `h` `j` `k` `l` | moves one character
