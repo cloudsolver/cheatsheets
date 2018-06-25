@@ -4,11 +4,12 @@ This is a cheat sheet for intermediate VIM users who are on a quest for a comple
 
 ## Moving
 It's a WEB!!
-||Aspect|| Keys || Description||
---|--|--
+Aspect| Keys| Description|
+---|---|---
 |character| `h` `j` `k` `l` | moves one character
 |word| `w` `e` `b`| moves one word at a time forward, forward end of word, back
 |line| `0` `$`| move to the begiinning or end
+
 * Move 5 words? e.g. `5w`
 
 ## Selection
