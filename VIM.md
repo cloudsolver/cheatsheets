@@ -19,12 +19,11 @@ You should be able to select in interesting ways and replace
 ## Buffers
 Open a new tab, or split into multiple buffers
 
-||Aspect||Keys||Description
--|-|-
+Aspect|KeysDescription
+--|--|--
 vertical|`:vnew`|Create a new vertical split buffer
 horizontal|`:new`|create a new horizontally split 
-switch| `ctrl+w+w'| Switch Windows in order
-
+switch| `ctrl+w+w'| Switch Windows 
 ## References
 
 1. http://vim.wikia.com/wiki/All_the_right_moves
